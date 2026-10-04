@@ -1,0 +1,6 @@
+{
+  "name": "SplitSquad - Smart Bill Splitter & Expense Tracker",
+  "description": "Split bills among friends with automated expense tracking, exact share calculations, paid balances, and debt simplification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
